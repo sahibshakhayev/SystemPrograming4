@@ -1,0 +1,17 @@
+D:\Projects\STEP IT\System Programing\HW4\ThreadsAndSemaphore\bin\Debug\net6.0-windows\ThreadsAndSemaphore.exe
+D:\Projects\STEP IT\System Programing\HW4\ThreadsAndSemaphore\bin\Debug\net6.0-windows\ThreadsAndSemaphore.deps.json
+D:\Projects\STEP IT\System Programing\HW4\ThreadsAndSemaphore\bin\Debug\net6.0-windows\ThreadsAndSemaphore.runtimeconfig.json
+D:\Projects\STEP IT\System Programing\HW4\ThreadsAndSemaphore\bin\Debug\net6.0-windows\ThreadsAndSemaphore.dll
+D:\Projects\STEP IT\System Programing\HW4\ThreadsAndSemaphore\bin\Debug\net6.0-windows\ThreadsAndSemaphore.pdb
+D:\Projects\STEP IT\System Programing\HW4\ThreadsAndSemaphore\obj\Debug\net6.0-windows\ThreadsAndSemaphore.csproj.AssemblyReference.cache
+D:\Projects\STEP IT\System Programing\HW4\ThreadsAndSemaphore\obj\Debug\net6.0-windows\ThreadsAndSemaphore.Form1.resources
+D:\Projects\STEP IT\System Programing\HW4\ThreadsAndSemaphore\obj\Debug\net6.0-windows\ThreadsAndSemaphore.csproj.GenerateResource.cache
+D:\Projects\STEP IT\System Programing\HW4\ThreadsAndSemaphore\obj\Debug\net6.0-windows\ThreadsAndSemaphore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\STEP IT\System Programing\HW4\ThreadsAndSemaphore\obj\Debug\net6.0-windows\ThreadsAndSemaphore.AssemblyInfoInputs.cache
+D:\Projects\STEP IT\System Programing\HW4\ThreadsAndSemaphore\obj\Debug\net6.0-windows\ThreadsAndSemaphore.AssemblyInfo.cs
+D:\Projects\STEP IT\System Programing\HW4\ThreadsAndSemaphore\obj\Debug\net6.0-windows\ThreadsAndSemaphore.csproj.CoreCompileInputs.cache
+D:\Projects\STEP IT\System Programing\HW4\ThreadsAndSemaphore\obj\Debug\net6.0-windows\ThreadsAndSemaphore.dll
+D:\Projects\STEP IT\System Programing\HW4\ThreadsAndSemaphore\obj\Debug\net6.0-windows\refint\ThreadsAndSemaphore.dll
+D:\Projects\STEP IT\System Programing\HW4\ThreadsAndSemaphore\obj\Debug\net6.0-windows\ThreadsAndSemaphore.pdb
+D:\Projects\STEP IT\System Programing\HW4\ThreadsAndSemaphore\obj\Debug\net6.0-windows\ThreadsAndSemaphore.genruntimeconfig.cache
+D:\Projects\STEP IT\System Programing\HW4\ThreadsAndSemaphore\obj\Debug\net6.0-windows\ref\ThreadsAndSemaphore.dll

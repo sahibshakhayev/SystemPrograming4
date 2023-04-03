@@ -1,0 +1,15 @@
+D:\Projects\STEP IT\System Programing\HW4\DeadLockExample\bin\Debug\net6.0\DeadLockExample.exe
+D:\Projects\STEP IT\System Programing\HW4\DeadLockExample\bin\Debug\net6.0\DeadLockExample.deps.json
+D:\Projects\STEP IT\System Programing\HW4\DeadLockExample\bin\Debug\net6.0\DeadLockExample.runtimeconfig.json
+D:\Projects\STEP IT\System Programing\HW4\DeadLockExample\bin\Debug\net6.0\DeadLockExample.dll
+D:\Projects\STEP IT\System Programing\HW4\DeadLockExample\bin\Debug\net6.0\DeadLockExample.pdb
+D:\Projects\STEP IT\System Programing\HW4\DeadLockExample\obj\Debug\net6.0\DeadLockExample.csproj.AssemblyReference.cache
+D:\Projects\STEP IT\System Programing\HW4\DeadLockExample\obj\Debug\net6.0\DeadLockExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\STEP IT\System Programing\HW4\DeadLockExample\obj\Debug\net6.0\DeadLockExample.AssemblyInfoInputs.cache
+D:\Projects\STEP IT\System Programing\HW4\DeadLockExample\obj\Debug\net6.0\DeadLockExample.AssemblyInfo.cs
+D:\Projects\STEP IT\System Programing\HW4\DeadLockExample\obj\Debug\net6.0\DeadLockExample.csproj.CoreCompileInputs.cache
+D:\Projects\STEP IT\System Programing\HW4\DeadLockExample\obj\Debug\net6.0\DeadLockExample.dll
+D:\Projects\STEP IT\System Programing\HW4\DeadLockExample\obj\Debug\net6.0\refint\DeadLockExample.dll
+D:\Projects\STEP IT\System Programing\HW4\DeadLockExample\obj\Debug\net6.0\DeadLockExample.pdb
+D:\Projects\STEP IT\System Programing\HW4\DeadLockExample\obj\Debug\net6.0\DeadLockExample.genruntimeconfig.cache
+D:\Projects\STEP IT\System Programing\HW4\DeadLockExample\obj\Debug\net6.0\ref\DeadLockExample.dll

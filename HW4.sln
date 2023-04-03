@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadLockExample", "DeadLockExample\DeadLockExample.csproj", "{C052E47F-6CC7-45AE-8317-E3A550CF558E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadsAndSemaphore", "ThreadsAndSemaphore\ThreadsAndSemaphore.csproj", "{F32CB839-C105-4086-A409-61D37DB71616}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C052E47F-6CC7-45AE-8317-E3A550CF558E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C052E47F-6CC7-45AE-8317-E3A550CF558E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C052E47F-6CC7-45AE-8317-E3A550CF558E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C052E47F-6CC7-45AE-8317-E3A550CF558E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F32CB839-C105-4086-A409-61D37DB71616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32CB839-C105-4086-A409-61D37DB71616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32CB839-C105-4086-A409-61D37DB71616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32CB839-C105-4086-A409-61D37DB71616}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC6BD89F-563E-4928-9208-675541CC0047}
+	EndGlobalSection
+EndGlobal
